@@ -6,7 +6,7 @@ sites:
     url: https://test.hometraveler.org
 
 status-website:
-  baseUrl: status.hometraveler.org
+  cname: status.hometraveler.org
   name: HomeTraveler Status
   introTitle: "**HomeTraveler** Status"
   introMessage: Home NAS and services status
