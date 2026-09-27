@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.hometraveler.org.ico",
     "slug": "home-nas",
     "status": "down",
-    "uptime": "7.54%",
-    "uptimeDay": "21.70%",
+    "uptime": "7.37%",
+    "uptimeDay": "21.69%",
     "uptimeWeek": "6.52%",
-    "uptimeMonth": "7.54%",
-    "uptimeYear": "7.54%",
-    "time": 192,
-    "timeDay": 196,
-    "timeWeek": 168,
-    "timeMonth": 192,
-    "timeYear": 192,
+    "uptimeMonth": "7.37%",
+    "uptimeYear": "7.37%",
+    "time": 181,
+    "timeDay": 185,
+    "timeWeek": 156,
+    "timeMonth": 181,
+    "timeYear": 181,
     "dailyMinutesDown": {
       "2026-09-22": 1095,
       "2026-09-21": 1440,
@@ -23,7 +23,8 @@
       "2026-09-26": 1167,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
-      "2026-09-23": 1440
+      "2026-09-23": 1440,
+      "2026-09-27": 249
     }
   }
 ]
