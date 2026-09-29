@@ -5,6 +5,9 @@ sites:
   - name: Home NAS
     url: https://test.hometraveler.org
 
+  - name: Immich
+    url: https://photos.hometraveler.org
+
 status-website:
   cname: status.hometraveler.org
   name: HomeTraveler Status
