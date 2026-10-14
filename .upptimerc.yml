@@ -8,6 +8,9 @@ sites:
   - name: Immich
     url: https://photos.hometraveler.org
 
+  - name: Navidrome
+    url: https://music.hometraveler.org
+
 status-website:
   cname: status.hometraveler.org
   name: HomeTraveler Status
