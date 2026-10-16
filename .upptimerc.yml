@@ -11,6 +11,9 @@ sites:
   - name: Navidrome
     url: https://music.hometraveler.org
 
+  - name: OpenCloud
+    url: https://cloud.hometraveler.org
+    
 status-website:
   cname: status.hometraveler.org
   name: HomeTraveler Status
