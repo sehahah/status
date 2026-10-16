@@ -10,9 +10,11 @@ sites:
 
   - name: Navidrome
     url: https://music.hometraveler.org
+    icon: https://raw.githubusercontent.com/sehahah/status/master/assets/navidrome.svg
 
   - name: OpenCloud
     url: https://cloud.hometraveler.org
+    https://raw.githubusercontent.com/sehahah/status/master/assets/opencloud.svg
     
 status-website:
   cname: status.hometraveler.org
