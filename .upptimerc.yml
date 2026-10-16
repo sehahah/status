@@ -14,7 +14,7 @@ sites:
 
   - name: OpenCloud
     url: https://cloud.hometraveler.org
-    https://raw.githubusercontent.com/sehahah/status/master/assets/opencloud.svg
+    icon: https://raw.githubusercontent.com/sehahah/status/master/assets/opencloud.svg
     
 status-website:
   cname: status.hometraveler.org
